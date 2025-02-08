@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /books/
-title: Books
+title: books
 description: Here is a table of books I've read or am reading.
 nav: true
 nav_order: 6

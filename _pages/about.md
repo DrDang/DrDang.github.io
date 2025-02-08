@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Lead Systems Engineer</a>. "Success isn't given; it's earned."
+subtitle: <a href='#'>Lead Systems Engineer</a>. "Curious and Driven"
 
 profile:
   align: right
@@ -34,6 +34,6 @@ In 2023, I set out to earn my Professional Engineer (PE) certification. Over the
 While studying for my PE, I recognized the importance of networking in my work. I studied for and passed the Cisco CCNA exam on my first attempt, earning certification as a Cisco Certified Networking Associate.
 
 ### Leading Advanced Projects
-In just eight years, I progressed from Engineer 1 to Lead Systems Engineer, guiding development on one of Honeywell’s most complex military avionics systems—the F-15 Advanced Display Core Processor II (ADCP II). Now I'm working on the new upcoming Honeywell 360 Display system!
+In just eight years, I progressed from Engineer 1 to Lead Systems Engineer, guiding development on one of Honeywell’s most complex military avionics systems—the [F-15 Advanced Display Core Processor II (ADCP II)](https://www.hill.af.mil/News/Article-Display/Article/848879/f-15s-new-advanced-high-speed-mission-computer-makes-first-flight/). Now I'm working on the new upcoming [Honeywell 360 Display system](https://aerospace.honeywell.com/us/en/products-and-services/product/hardware-and-systems/cockpit-systems-and-displays/honeywell-360-display)!
 
 Feel free to reach out to discuss my work, explore collaborations, or simply say hi. I’m always excited to connect!
