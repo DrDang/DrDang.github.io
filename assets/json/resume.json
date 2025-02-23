@@ -122,20 +122,25 @@
         "Programming Languages: C, Python, Assembly, Matlab",
         "Software Tools: TestStand, LabVIEW, CVI",
         "Version Control: GIT, SVN, ClearCase, BitBucket",
-        "EDA Tools: Schematic and PCB design",
-        "Database Systems: SQL-based test data systems",
-        "Automation Development: Automated firmware/software loading and auditing (JTAG, RS-232, SPI)",
-        "Test Development and Maintenance: ESS, ATP, LRU, and SRU testing"
+        "EDA Tools: Multisim, Ultiboard, Schematic and PCB design",
+        "Lab Equipment: Oscilloscopes, DMM, Protocol Analyzers, Network switches",
+        "Database Systems: SQL-based test data systems: PostGre SQl & MS SQL Server",
+        "Automation Development: Automated firmware/software loading and auditing, ATP, environmental testing, etc.",
+        "Test Development and Maintenance: ESS, ATP, LRU, and SRU testing",
+        "Protocols: JTAG, RS-232, SPI, I2C, TCP/IP, Ethernet, SRIO, ARINC-818, IEEE 488.2, 1553, MIPI, etc."
       ]
     },
     {
-      "name": "System Design & Testing",
+      "name": "Systems Design & Testing",
       "icon": "fa-solid fa-gears",
       "keywords": [
-        "Hardware and software integration for automated testers",
+        "Requirements Engineering",
+        "Model Based Systems Engineering: Enterprise Architect",
+        "Hardware and software integration and V&V",
         "Thermal and vibration test design and troubleshooting",
-        "ARINC-818, Fibre Channel, and MIL-STD-1553 testing",
-        "Multi-unit environmental stress screening (ESS) testing"
+        "Protocol (e.g. ARINC-818, Fibre Channel, MIL-STD-1553) integration & testing",
+        "Multi-unit environmental stress screening (ESS) testing",
+        "MIL-STD-810, MIL-STD-882, MIL-STD-461, MIL-STD-130, etc."
       ]
     },
     {
