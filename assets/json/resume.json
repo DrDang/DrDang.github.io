@@ -8,9 +8,9 @@
     "url": "DrDang.github.io",
     "summary": "Curious and Driven.",
     "location": {
-      "city": "Phoenix",
+      "city": "Albuquerque",
       "countryCode": "US",
-      "region": "Arizona"
+      "region": "New Mexico"
     },
     "profiles": [
       {
@@ -22,12 +22,21 @@
   },
   "work": [
     {
+      "name": "AV",
+      "position": "Advanced RF Systems Engineer",
+      "url": "https://bluehalo.com/space/space-operations/",
+      "startDate": "2025-05-19",
+      "endDate": "current",
+      "summary": "Currently working on BADGER and WASP space op solutions",
+      "highlights": ["Aerospace"]
+    },
+    {
       "name": "Honeywell International, Inc.",
       "position": "Lead Systems Engineer",
       "url": "https://aerospace.honeywell.com/us/en/products-and-services/industry/defense",
       "startDate": "2015-06-01",
-      "endDate": "current",
-      "summary": "Spent almost 10 years primarily on the F-15 ADCP II Program from Engineer 1 to now Lead Systems. Now working on the Honeywell 360 Display. See Resume PDF for more info!",
+      "endDate": "2025-05-09",
+      "summary": "Spent almost 10 years primarily on the F-15 ADCP II Program from Engineer 1 to now Lead Systems. Transitioned to working on the Honeywell 360 Display.",
       "highlights": ["Aerospace"]
     },
     {
@@ -134,8 +143,8 @@
       "name": "Systems Design & Testing",
       "icon": "fa-solid fa-gears",
       "keywords": [
-        "Requirements Engineering",
-        "Model Based Systems Engineering: Enterprise Architect",
+        "Requirements Engineering: Jama Connect",
+        "Model Based Systems Engineering: CAMEO, Enterprise Architect, Eclipse Papyrus",
         "Hardware and software integration and V&V",
         "Thermal and vibration test design and troubleshooting",
         "Protocol (e.g. ARINC-818, Fibre Channel, MIL-STD-1553) integration & testing",
