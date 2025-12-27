@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/books/";
           },
-        },{id: "post-the-half-way-handoff-a-simple-strategy-for-seamless-team-cooperation",
+        },{id: "post-a-systems-view-of-history-thoughts-on-39-1493-39-by-charles-c-mann",
+      
+        title: "A Systems View of History - Thoughts on &#39;1493&#39; by Charles C. Mann...",
+      
+      description: "My quick thoughts on 1493 by Charles C. Mann",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/1493_review/";
+        
+      },
+    },{id: "post-the-half-way-handoff-a-simple-strategy-for-seamless-team-cooperation",
       
         title: "The Half-Way Handoff. A Simple Strategy for Seamless Team Cooperation",
       
