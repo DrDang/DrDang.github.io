@@ -1,97 +1,139 @@
 - title: General Information
   type: map
   contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+    - name: Name
+      value: Christopher Dang, PE
+    - name: Label
+      value: Professional Electrical Engineer
+    - name: Email
+      value: ChristopherDang1992@yahoo.com
+    - name: Phone
+      value: 626-560-6810
+    - name: Website
+      value: <a href="https://DrDang.github.io" target="_blank">DrDang.github.io</a>
+    - name: Location
+      value: Albuquerque, New Mexico, US
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Bachelor of Science, High Honors
+      institution: <a href="https://nmt.edu" target="_blank">New Mexico Institute of Mining and Technology</a>
+      year: 2011 - 2015
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - Major in Electrical Engineering.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Advanced RF Systems Engineer
+      institution: <a href="https://bluehalo.com/space/space-operations/" target="_blank">AV (BlueHalo)</a>
+      year: 2025 - Pres.
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Currently working on BADGER and WASP space op solutions.
+        - <b>Highlights:</b> Aerospace.
+    - title: Lead Systems Engineer
+      institution: <a href="https://aerospace.honeywell.com/us/en/products-and-services/industry/defense" target="_blank">Honeywell International, Inc.</a>
+      year: 2015 - 2025
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - Spent almost 10 years primarily on the F-15 ADCP II Program from Engineer 1 to Lead Systems Engineer.
+        - Transitioned to working on the Honeywell 360 Display.
+        - <b>Highlights:</b> Aerospace.
+    - title: Hardware Design Intern
+      institution: <a href="https://www.hpe.com/us/en/home.html" target="_blank">Hewlett Packard Enterprise</a>
+      year: 2014
       description:
+        - Learned about enterprise storage hardware and developed a visual tester for producing high volumes of driver carriers.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+- title: Professional Memberships
+  type: list
+  contents:
+    - "<b>INCOSE</b> - International Council on Systems Engineering. Member."
 
-- title: Open Source Projects
+- title: Certificates & Licenses
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Professional Engineer (PE) - Electrical
+      institution: <a href="https://www.sblpes.state.nm.us" target="_blank">NM State Board of Licensure for PE & PS</a>
+      year: 2025
+    - title: Professional Engineer (PE) - Electrical
+      institution: <a href="https://btr.az.gov" target="_blank">Arizona Board of Technical Registration</a>
+      year: 2025
+    - title: Cisco Certified Network Associate (CCNA)
+      institution: <a href="https://www.credly.com/badges/3b7ba432-8213-494b-a8a0-2f6be82b6fa5/public_url" target="_blank">Cisco</a>
+      year: 2024
+    - title: FAA Part 107 Certified Drone Pilot
+      institution: <a href="https://www.faa.gov/uas" target="_blank">Federal Aviation Administration</a>
+      year: 2024
+    - title: N2 Japanese-Language Proficiency
+      institution: The Japan Foundation
+      year: 2017
+    - title: Six Sigma Green Belt
+      institution: Honeywell
+      year: 2016
+
+- title: Skills
+  type: nested_list
+  contents:
+    - title: Technical Skills
+      items: 
+        - "Programming Languages: C, Python, Assembly, Matlab"
+        - "Software Tools: TestStand, LabVIEW, CVI"
+        - "Version Control: GIT, SVN, ClearCase, BitBucket"
+        - "EDA Tools: Multisim, Ultiboard, Schematic and PCB design, Gerbv"
+        - "Lab Equipment: Oscilloscopes, DMM, Protocol Analyzers, Network switches"
+        - "Database Systems: SQL-based test data systems (PostGre SQL & MS SQL Server)"
+        - "Automation Development: Automated firmware/software loading and auditing, ATP, environmental testing"
+        - "Test Development and Maintenance: ESS, ATP, LRU, and SRU testing"
+        - "Protocols: JTAG, RS-232, SPI, I2C, TCP/IP, Ethernet, SRIO, ARINC-818, IEEE 488.2, 1553, MIPI"
+    - title: Systems Design & Testing
+      items:
+        - "Requirements Engineering: Jama Connect"
+        - "Model Based Systems Engineering: CAMEO, Enterprise Architect, Eclipse Papyrus"
+        - "Hardware and software integration and V&V"
+        - "Thermal and vibration test design and troubleshooting"
+        - "Protocol (e.g. ARINC-818, Fibre Channel, MIL-STD-1553) integration & testing"
+        - "Multi-unit environmental stress screening (ESS) testing"
+        - "Standards: MIL-STD-810, MIL-STD-882, MIL-STD-461, MIL-STD-130"
+    - title: Leadership & Management
+      items:
+        - "Team Leadership and Agile workflow implementation (JIRA)"
+        - "Authoring technical documentation (Confluence, organizational wikis)"
+        - "Configuration management and audit support (FCA, PCA, ATP)"
+        - "Productivity Tools: MS Word, Excel, PowerPoint, GanttProject, MS Project"
+    - title: Other Skills
+      items:
+        - "Export classification for avionics (230+ classifications)"
+        - "Data analysis and visualization improvements"
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+    - title: Chief Engineer's Recognition Award
+      institution: Honeywell
+      year: 2022
+      description: Recognized for a successful RCCA to a difficult problem impacting production yields.
+    - title: Top Flyer Award
+      institution: Honeywell
+      year: 2020
+      description: Granted for a successful F-15 ADCP2 Software Qualification.
+    - title: Outstanding Engineer Award
+      institution: Honeywell
+      year: 2020
+      description: Peer nominated and awarded for excellent contributions to the F-15 ADCP II Program.
 
-- title: Academic Interests
-  type: nested_list
+- title: Publications
+  type: time_table
   contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+    - title: <a href="https://ui.adsabs.harvard.edu/abs/2012AGUFMSA11A2136L/abstract" target="_blank">New Mexico Tech Satellite Design and Progress</a>
+      institution: American Geophysical Union, Fall Meeting
+      year: 2012
+      description: 
+        - New Mexico Tech Satellite (NMTSat) is a low-budget, 3U CubeSat for correlating state-of-health information from the spacecraft with space weather in LEO.
 
-- title: Other Interests
+- title: Languages
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - English (Native)
+    - Japanese (Proficient)
+    - Vietnamese (Proficient)
