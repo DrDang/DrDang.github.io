@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/books/";
           },
-        },{id: "post-a-systems-view-of-history-thoughts-on-39-1493-39-by-charles-c-mann",
+        },{id: "post-the-engineering-of-learning-immersion-and-algorithms",
+      
+        title: "The Engineering of Learning - Immersion and Algorithms",
+      
+      description: "Proven learning techniques",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/EngineeredLearning/";
+        
+      },
+    },{id: "post-a-systems-view-of-history-thoughts-on-39-1493-39-by-charles-c-mann",
       
         title: "A Systems View of History - Thoughts on &#39;1493&#39; by Charles C. Mann...",
       
