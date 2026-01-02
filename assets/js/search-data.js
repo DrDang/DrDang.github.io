@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/books/";
           },
-        },{id: "post-the-engineering-of-learning-immersion-and-algorithms",
+        },{id: "post-folk-theory-and-horoscopes-a-review-of-jungian-psychology-step-by-step",
+      
+        title: "Folk Theory and Horoscopes - A Review of Jungian Psychology Step by Step...",
+      
+      description: "My foray into Jungian Psychology",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2026/JungianPsychology/";
+        
+      },
+    },{id: "post-the-engineering-of-learning-immersion-and-algorithms",
       
         title: "The Engineering of Learning - Immersion and Algorithms",
       
