@@ -44,15 +44,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/books/";
           },
-        },{id: "post-",
+        },{id: "post-mosa-breaking-vendor-lock-amp-accelerating-innovation",
       
-        title: "",
+        title: "MOSA - Breaking Vendor Lock &amp; Accelerating Innovation",
       
-      description: "",
+      description: "A quick overview of MOSA (Modular Open Systems Approach)",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2026/2026-01-02-MOSA/";
+          window.location.href = "/blog/2026/MOSA/";
         
       },
     },{id: "post-folk-theory-and-horoscopes-a-review-of-jungian-psychology-step-by-step",
