@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/books/";
           },
-        },{id: "post-folk-theory-and-horoscopes-a-review-of-jungian-psychology-step-by-step",
+        },{id: "post-",
+      
+        title: "",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2026/2026-01-02-MOSA/";
+        
+      },
+    },{id: "post-folk-theory-and-horoscopes-a-review-of-jungian-psychology-step-by-step",
       
         title: "Folk Theory and Horoscopes - A Review of Jungian Psychology Step by Step...",
       
