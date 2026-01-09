@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/books/";
           },
-        },{id: "post-mosa-breaking-vendor-lock-amp-accelerating-innovation",
+        },{id: "post-fake-it-till-you-make-it-it-s-not-a-lie-it-s-a-strategy",
+      
+        title: "Fake It Till You Make It - It’s Not a Lie, It’s a...",
+      
+      description: "How faking it really makes it",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2026/fakeItTillMakeIt/";
+        
+      },
+    },{id: "post-mosa-breaking-vendor-lock-amp-accelerating-innovation",
       
         title: "MOSA - Breaking Vendor Lock &amp; Accelerating Innovation",
       
