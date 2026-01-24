@@ -15,12 +15,12 @@ news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-I’m an electrical, test, and systems engineer passionate about learning and creating meaningful impact through technology! I am a licensed Professional Engineer (PE) in AZ and NM, an INCOSE member, and am qualified to contribute to sensitive, regulated, and military projects.
+I'm an electrical, test, and systems engineer passionate about learning and creating meaningful impact through technology! I am a licensed Professional Engineer (PE) in AZ and NM, an INCOSE member and ASEP, and am qualified to contribute to sensitive, regulated, and military projects.
 
 Over time, resilience, dedication, and curiosity have become my guiding principles, shaping both my work and life. Here are some stories of grit and perseverance:
 
 ### Leading Advanced Projects
-In just eight years, I progressed from Engineer 1 to Lead Systems Engineer, guiding development on one of Honeywell’s most complex military avionics systems—the [F-15 Advanced Display Core Processor II (ADCP II)](https://www.hill.af.mil/News/Article-Display/Article/848879/f-15s-new-advanced-high-speed-mission-computer-makes-first-flight/) before ending my time at Honeywell while working on the [Honeywell 360 Display system](https://aerospace.honeywell.com/us/en/products-and-services/product/hardware-and-systems/cockpit-systems-and-displays/honeywell-360-display). Now at AV working on RF systems for space solutions: [BADGER and WASP](https://bluehalo.com/space/space-operations/)!
+In just eight years, I progressed from Engineer 1 to Lead Systems Engineer, guiding development on one of Honeywell’s most complex military avionics systems—the [F-15 Advanced Display Core Processor II (ADCP II)](https://www.hill.af.mil/News/Article-Display/Article/848879/f-15s-new-advanced-high-speed-mission-computer-makes-first-flight/) before ending my time at Honeywell while working on the [Honeywell 360 Display system](https://aerospace.honeywell.com/us/en/products-and-services/product/hardware-and-systems/cockpit-systems-and-displays/honeywell-360-display). Now at AV working on RF systems for space solutions: [BADGER and WASP](https://bluehalo.com/space/space-operations/), as well as [AV HALO COMMAND](https://www.avinc.com/maccready-works/av-halo)!
 
 ### Earning My PE
 In 2023, I set out to earn my Professional Engineer (PE) certification. Over the course of a year, I passed both the FE and PE exams on my first attempts, despite the PE being offered only once annually.
