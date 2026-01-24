@@ -131,16 +131,6 @@ ninja.data = [{
           description: "How I enhanced operational efficiency through 6-Sigma Visual Management",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_newVisualManagement/";
-            },},{id: "projects-modernizing-1553-vxi-card-integration-for-c-5",
-          title: 'Modernizing 1553 VXI Card Integration for C-5',
-          description: "I enabled seamless migration from a Condor to Abaco 1553 VXI card without disrupting existing test infrastructure.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_1553-Port-for-C-5/";
-            },},{id: "projects-a-better-automated-rcca",
-          title: 'A Better, Automated RCCA',
-          description: "An RCCA software tool to help us solve problems!",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/5_RCCA-Tool/";
             },},{id: "projects-rcca-varying-recorded-on-times",
           title: 'RCCA - Varying Recorded On Times',
           description: "",
