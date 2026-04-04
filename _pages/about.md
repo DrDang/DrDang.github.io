@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://bluehalo.com/space/space-operations/'>WASP Cross Product Team Lead</a>. "Curious and Driven"
+subtitle: <a href='https://bluehalo.com/space/space-operations/'>WASP Cross Product Team Lead</a>. "Professional Engineer · Defense & Space Systems"
 
 profile:
   align: right
@@ -15,20 +15,17 @@ news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-I'm an electrical, test, and systems engineer passionate about learning and creating meaningful impact through technology! I am a licensed Professional Engineer (PE) in AZ and NM, an INCOSE member and ASEP, and am qualified to contribute to sensitive, regulated, and military projects.
+I’m a licensed Professional Engineer in Arizona and New Mexico in electrical engineering, and an INCOSE Associate Systems Engineering Professional (ASEP), with over 10 years of experience across defense, aerospace, test, and systems engineering. I'm currently cleared for sensitive, regulated, and military projects and my work has focused on complex, regulated programs where technical rigor, cross-functional coordination, and sound engineering judgment matter.
 
-Over time, resilience, dedication, and curiosity have become my guiding principles, shaping both my work and life. Here are some stories of grit and perseverance:
+I care deeply about engineering as a discipline, not just as a job.
 
 ### Leading Advanced Projects
-In just eight years, I progressed from Engineer 1 to Lead Systems Engineer, guiding development on one of Honeywell’s most complex military avionics systems—the [F-15 Advanced Display Core Processor II (ADCP II)](https://www.hill.af.mil/News/Article-Display/Article/848879/f-15s-new-advanced-high-speed-mission-computer-makes-first-flight/) before ending my time at Honeywell while working on the [Honeywell 360 Display system](https://aerospace.honeywell.com/us/en/products-and-services/product/hardware-and-systems/cockpit-systems-and-displays/honeywell-360-display). Now at AV working on RF systems for space solutions: [BADGER and WASP](https://bluehalo.com/space/space-operations/), as well as [AV HALO COMMAND](https://www.avinc.com/maccready-works/av-halo)!
 
-### Earning My PE
-In 2023, I set out to earn my Professional Engineer (PE) certification. Over the course of a year, I passed both the FE and PE exams on my first attempts, despite the PE being offered only once annually.
+Over the course of my career, I progressed from entry-level test engineer to Lead Systems Engineer, helping develop one of Honeywell’s most complex military avionics systems: the [F-15 Advanced Display Core Processor II (ADCP II)](https://www.hill.af.mil/News/Article-Display/Article/848879/f-15s-new-advanced-high-speed-mission-computer-makes-first-flight/). I later supported upfront systems engineering on the [Honeywell 360 Display system](https://aerospace.honeywell.com/us/en/products-and-services/product/hardware-and-systems/cockpit-systems-and-displays/honeywell-360-display).
+Today, I work on RF and defense systems at AV, contributing to [BADGER and WASP](https://bluehalo.com/space/space-operations/) as well as [AV HALO COMMAND](https://www.avinc.com/maccready-works/av-halo). My experience spans high-performance avionics processors, advanced RF systems, and distributed real-time software-intensive systems.
 
-### Achieving a Dream
-At 16, I dreamed of attending high school in Japan. After researching exchange programs, my first application was rejected. Undeterred, I improved my application and succeeded the following year, achieving my goal in 2009. Now, I’m proficient in Japanese, holding a JLPT N2 certification.
+### How I Approach Engineering
 
-### Becoming CCNA Certified
-While studying for my PE, I recognized the importance of networking in my work. I studied for and passed the Cisco CCNA exam on my first attempt, earning certification as a Cisco Certified Networking Associate.
+I’m drawn to difficult engineering problems where the answer is not immediately obvious and where success depends on disciplined thinking across the full system. I care about clear requirements, sound architecture, thoughtful verification, and understanding how design decisions hold up in the real world.
 
-Ready to solve complex systems challenges? Contact me via one of the two options below:
+Having grown from hands-on test engineering into systems leadership, I’ve developed a strong appreciation for both detail and big-picture thinking. I value rigor, but I also value practicality, helping teams make decisions, reduce risk, and keep programs moving.

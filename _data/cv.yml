@@ -30,20 +30,70 @@
       institution: <a href="https://bluehalo.com/space/space-operations/" target="_blank">AV (BlueHalo)</a>
       year: 2025 - Pres.
       description:
-        - Currently working on BADGER and WASP space op solutions.
-        - <b>Highlights:</b> Aerospace.
+        - Currently working WASP space RF solutions.
+        - Led requirements decomposition, ICD development, and VCRM creation, supporting a successful Delta CDR.
+        - Coordinated multidisciplinary teams to develop the system-level specification for the ARCS phased array SATCOM system.
+        - Led upfront systems engineering for the AV_HALO Command Weapons Pairing and Scheduling subsystem.
+        - Served as Cross-Product Team Lead on WASP, managing technical risks and executing demo plans across two concurrent projects.
+        - Authored and executed test procedures to verify system performance against requirements.
     - title: Lead Systems Engineer
       institution: <a href="https://aerospace.honeywell.com/us/en/products-and-services/industry/defense" target="_blank">Honeywell International, Inc.</a>
-      year: 2015 - 2025
+      year: 2023 - 2025
       description:
-        - Spent almost 10 years primarily on the F-15 ADCP II Program from Engineer 1 to Lead Systems Engineer.
-        - Transitioned to working on the Honeywell 360 Display.
-        - <b>Highlights:</b> Aerospace.
+        - Modeled requirements for new product introduction of the Honeywell 360 Display for military ground vehicles.
+        - Resolved multiple complex F-15 ADCP2 issues at the customer to their satisfaction.
+        - Scaled testing capabilities via hardware & software upgrades by 280%.
+        - Supported & passed FCA/PCA, ATP, and Configuration Management audits.
+        - Completed Level of Repair Analysis (LORA) & Depot Activation Requirements documentation.
+        - Troubleshot and supported T-45 test solutions.
+    - title: Senior Advanced Test Engineer
+      institution: <a href="https://aerospace.honeywell.com/us/en/products-and-services/industry/defense" target="_blank">Honeywell International, Inc.</a>
+      year: 2021 - 2023
+      description:
+        - Led team of engineers & technicians for F-15 ADCP2.
+        - Responsible for all F-15 ADCPII test software development and sustainment&#58; 11 automated LRU testers, 2 automated SRU testers, 5 manual SRU testers, 2 software benches, 5 thermal testers, and 2 vibration testers.
+        - Successful rollout of a new test data SQL database, bettering test analytics by orders of magnitude.
+        - Pioneered Agile team workflow via JIRA.
+        - Improved test software efficiency with audit software 60% faster.
+        - Solved problems on programs&#58; C-17, B-1, F-16, F-18, C-5, C-130, & more.
+    - title: Advanced Test Engineer
+      institution: <a href="https://aerospace.honeywell.com/us/en/products-and-services/industry/defense" target="_blank">Honeywell International, Inc.</a>
+      year: 2019 - 2021
+      description:
+        - Successfully led the redesign & build of a new ATE, including software integration.
+        - Led development of updated test chassis for automated card tester.
+        - Represented Honeywell for F-15 ADCPII, resulting in successful CMMI Level 3 appraisal.
+        - Solved overheating in ESS testing, mitigating future escapes and saving test time and material costs.
+        - Essential test support for a successful software Qual.
+    - title: Engineer 2, Test
+      institution: <a href="https://aerospace.honeywell.com/us/en/products-and-services/industry/defense" target="_blank">Honeywell International, Inc.</a>
+      year: 2018 - 2019
+      description:
+        - Developed 1553 VME Board driver for obsolescence on C-5 SILs on VxWorks.
+        - Developed BIT decoding & enhanced troubleshooting capability on ATP.
+        - Improved ESS Thermal test for all ADCP II programs, adding multi-UUT testing capability.
+        - Led the ARINC-818 & fibre channel ATP test updates.
+        - Developed new Large Area Displays QUAL testing.
+    - title: Engineer 1, Test
+      institution: <a href="https://aerospace.honeywell.com/us/en/products-and-services/industry/defense" target="_blank">Honeywell International, Inc.</a>
+      year: 2015 - 2018
+      description:
+        - Completed LRU manual test software development via CVI.
+        - Developed software for LRU automated firmware & software loading & auditing using JTAG, RS-232, & SPI.
+        - TestStand development and documentation for ATP.
+        - Fixed issues on ESS thermal & vibration test software.
+        - Designed and implemented ARINC-818 testing.
     - title: Hardware Design Intern
       institution: <a href="https://www.hpe.com/us/en/home.html" target="_blank">Hewlett Packard Enterprise</a>
       year: 2014
       description:
-        - Learned about enterprise storage hardware and developed a visual tester for producing high volumes of driver carriers.
+        - Designed, tested, and deployed a new test system for HP SmartDrive product line at multiple sites, resulting in decreased escapes.
+        - Conducted thorough troubleshooting of server system prototypes.
+    - title: NMTSAT Subsystem Lead
+      institution: <a href="https://nmt.edu" target="_blank">New Mexico Institute of Mining and Technology</a>
+      year: 2014 - 2015
+      description:
+        - Led the analysis, testing, and update of the Langmuir Plasma Probe subsystem, including schematic and PCB design using EDA.
 
 - title: Professional Memberships
   type: list
@@ -53,11 +103,11 @@
 - title: Certificates & Licenses
   type: time_table
   contents:
-    - title: Professional Engineer (PE) - Electrical
+    - title: Professional Engineer (PE) - Electrical and Computer
       institution: <a href="https://www.sblpes.state.nm.us" target="_blank">NM State Board of Licensure for PE & PS</a>
       year: 2025
-    - title: Professional Engineer (PE) - Electrical
-      institution: <a href="https://btr.az.gov" target="_blank">Arizona Board of Technical Registration</a>
+    - title: Professional Engineer (PE) - Electrical and Computer
+      institution: <a href="https://btr.az.gov/licensees/engineerelectrical/christopher-dang" target="_blank">Arizona Board of Technical Registration</a>
       year: 2025
     - title: INCOSE Associate Systems Engineering Professional (ASEP)
       institution: <a href="https://www.incose.org/certifications/asep" target="_blank">International Council on Systems Engineering (INCOSE)</a>
@@ -82,10 +132,10 @@
   type: nested_list
   contents:
     - title: Technical Skills
-      items: 
+      items:
         - "Programming Languages: C, Python, Assembly, Matlab"
         - "Software Tools: TestStand, LabVIEW, CVI"
-        - "Version Control: GIT, SVN, ClearCase, BitBucket"
+        - "Version Control: GIT, SVN, ClearCase, ClearQuest, BitBucket, Teamcenter, Arena"
         - "EDA Tools: Multisim, Ultiboard, Schematic and PCB design, Gerbv"
         - "Lab Equipment: Oscilloscopes, DMM, Protocol Analyzers, Network switches"
         - "Database Systems: SQL-based test data systems (PostGre SQL & MS SQL Server)"
@@ -95,7 +145,7 @@
     - title: Systems Design & Testing
       items:
         - "Requirements Engineering: Jama Connect"
-        - "Model Based Systems Engineering: CAMEO, Enterprise Architect, Eclipse Papyrus"
+        - "Model Based Systems Engineering: CAMEO, Enterprise Architect, Eclipse Papyrus, SysML"
         - "Hardware and software integration and V&V"
         - "Thermal and vibration test design and troubleshooting"
         - "Protocol (e.g. ARINC-818, Fibre Channel, MIL-STD-1553) integration & testing"
@@ -103,13 +153,14 @@
         - "Standards: MIL-STD-810, MIL-STD-882, MIL-STD-461, MIL-STD-130"
     - title: Leadership & Management
       items:
-        - "Team Leadership and Agile workflow implementation (JIRA)"
+        - "Cross-functional team leadership, technical risk management, and stakeholder coordination"
+        - "Agile workflow implementation (JIRA, OpenProject)"
         - "Authoring technical documentation (Confluence, organizational wikis)"
         - "Configuration management and audit support (FCA, PCA, ATP)"
         - "Productivity Tools: MS Word, Excel, PowerPoint, GanttProject, MS Project"
     - title: Other Skills
       items:
-        - "Export classification for avionics (230+ classifications)"
+        - "Export classification for avionics (230+ classifications, L3 level)"
         - "Data analysis and visualization improvements"
 
 - title: Honors and Awards
