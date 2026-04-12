@@ -131,11 +131,16 @@ ninja.data = [{
           description: "How I enhanced operational efficiency through 6-Sigma Visual Management",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_newVisualManagement/";
-            },},{id: "projects-rcca-varying-recorded-on-times",
-          title: 'RCCA - Varying Recorded On Times',
-          description: "",
+            },},{id: "projects-governance-register",
+          title: 'Governance Register',
+          description: "A local-first risk and decision management tool built for locked-down, restricted environments",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/7_RCCA_varyingRecordOnTimes/";
+              window.location.href = "/projects/3_RiskDecisionRegister/";
+            },},{id: "projects-rcca-helper",
+          title: 'RCCA Helper',
+          description: "A local-first Root Cause and Corrective Action workspace with interactive fault tree analysis, action tracking, and report generation",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/4_RCCA_Helper/";
             },},{
         id: 'social-email',
         title: 'email',
