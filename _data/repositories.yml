@@ -4,5 +4,7 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-  - DrDang/resumeGenerator
-  - DrDang/llm-sanitizer
+  - name: DrDang/resumeGenerator
+    description: Generates a formatted resume PDF from structured JSON data
+  - name: DrDang/llm-sanitizer
+    description: Sanitizes sensitive content from text before sending to LLMs
