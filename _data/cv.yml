@@ -26,11 +26,20 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Product Line Chief Engineer, WASP
+      institution: <a href="https://bluehalo.com/space/space-operations/" target="_blank">AV (BlueHalo)</a>
+      year: May 2026 - Pres.
+      description:
+        - Lead product-line engineering for WASP, a Wide Area Scanning Parabolic technology supporting advanced SATCOM and telemetry missions.
+        - Own technical direction, product architecture, engineering execution, and cross-functional alignment across the product lifecycle.
+        - Partner with program leadership, business development, systems engineering, hardware, software, manufacturing, and customer-facing teams to translate mission needs into scalable product capabilities.
+        - Drive technical trades, requirements alignment, risk reduction, design maturity, and product roadmap execution for current programs and future growth opportunities.
+        - Lead design reviews, engineering risk management, customer and stakeholder alignment, and product-line strategy.
     - title: Advanced RF Systems Engineer
       institution: <a href="https://bluehalo.com/space/space-operations/" target="_blank">AV (BlueHalo)</a>
-      year: 2025 - Pres.
+      year: May 2025 - May 2026
       description:
-        - Currently working WASP space RF solutions.
+        - Worked on WASP space RF solutions.
         - Led requirements decomposition, ICD development, and VCRM creation, supporting a successful Delta CDR.
         - Coordinated multidisciplinary teams to develop the system-level specification for the ARCS phased array SATCOM system.
         - Led upfront systems engineering for the AV_HALO Command Weapons Pairing and Scheduling subsystem.

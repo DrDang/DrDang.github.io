@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://bluehalo.com/space/space-operations/'>WASP Cross Product Team Lead</a>. "Professional Engineer · Defense & Space Systems"
+subtitle: <a href='https://www.avinc.com/solution/wasp/'>Product Line Chief Engineer, WASP</a>. "Professional Engineer · Defense & Space Systems"
 
 profile:
   align: right
@@ -22,7 +22,7 @@ I care deeply about engineering as a discipline, not just as a job.
 ### Leading Advanced Projects
 
 Over the course of my career, I progressed from entry-level test engineer to Lead Systems Engineer, helping develop one of Honeywell’s most complex military avionics systems: the [F-15 Advanced Display Core Processor II (ADCP II)](https://www.hill.af.mil/News/Article-Display/Article/848879/f-15s-new-advanced-high-speed-mission-computer-makes-first-flight/). I later supported upfront systems engineering on the [Honeywell 360 Display system](https://aerospace.honeywell.com/us/en/products-and-services/product/hardware-and-systems/cockpit-systems-and-displays/honeywell-360-display).
-Today, I work on RF and defense systems at AV, contributing to [BADGER and WASP](https://bluehalo.com/space/space-operations/) as well as [AV HALO COMMAND](https://www.avinc.com/maccready-works/av-halo). My experience spans high-performance avionics processors, advanced RF systems, and distributed real-time software-intensive systems.
+Today, I lead product-line engineering for [WASP](https://www.avinc.com/solution/wasp/) at AV, a Wide Area Scanning Parabolic technology supporting advanced SATCOM and telemetry missions. I own technical direction, product architecture, engineering execution, and cross-functional alignment across the product lifecycle, partnering with program leadership, business development, systems engineering, hardware, software, manufacturing, and customer-facing teams to translate mission needs into scalable product capabilities.
 
 ### How I Approach Engineering
 
